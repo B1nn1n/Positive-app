@@ -14,7 +14,25 @@ def show_message():
         "If there are two ways to take something, take it the positive way",
         "Your hard work will pay off",
         "Take a deep breath; you've got this",
-        "Progress over perfection"
+        "Progress over perfection",
+        "View challenges as opportunities to improve, not as personal failures",
+        "Every setback is just setup for a comeback",
+        "Focus on what is already going well",
+        "Separate intent from impact",
+        "Not everything is meant to hurt",
+        "Control the controllables",
+        "Be the best I can be within the parameters of my own role",
+        "Don't own what's not yours",
+        "Hard work is what brings good things",
+        "When things are difficult, keep going",
+        "Don't stop, you're almost there",
+        "Be kind to yourself",
+        "Diamonds are nothing more than chunks of coal that stuck to their jobs",
+        "Start your day with gratitude",
+        "You've overcome challenges before",
+        "Set boundaries to protect your energy",
+        "Celebrate small wins and contributions",
+        "You don't have to be perfect to be amazing"
     ]
     
     # Update the text
